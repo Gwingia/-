@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Language Selection</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .button {
+            display: block;
+            margin: 20px auto;
+            padding: 15px 30px;
+            font-size: 18px;
+            text-decoration: none;
+            color: white;
+            background-color: #007BFF;
+            border-radius: 5px;
+            width: 200px;
+            text-align: center;
+        }
+        .button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Select Your Language</h1>
+    <a class="button" href="https://youtube.com/shorts/sC61vxGI9kk?si=MKRFMp6lHUldiPU8" target="_blank">中文</a>
+    <a class="button" href="https://youtu.be/j6rOlSXlSP4?si=M5-Rc66St47-DhKZ" target="_blank">English</a>
+    <a class="button" href="https://youtube.com/shorts/tqm4JukCQic?si=-EoPBvpaz9sZnA3y" target="_blank">Русский</a>
+    <a class="button" href="https://youtube.com/shorts/yOBN1hkPihY?si=m2xnbwpGiXb8FG8N" target="_blank">한국어</a>
+</body>
+</html>
